@@ -36,3 +36,6 @@ Further improvements involve hyperparameter tuning, additional datasets, and dep
 This systematic approach ensures efficient ECG image classification, enabling early and reliable cardiovascular disease detection. 🚀
 
 ECG images Dataset - https://www.kaggle.com/datasets/evilspirit05/ecg-analysis
+PPT Link - https://docs.google.com/presentation/d/1po18SvmZg2WP0oKlM32_1VwTYN8MTtce/edit#slide=id.p1
+
+
