@@ -1,0 +1,2 @@
+# Detection-of-Cardiovascular-Disease-through-ECG-Images-using-Deep-Learning
+This project detects cardiovascular diseases from ECG images using machine learning. It classifies ECGs into Normal, Myocardial Infarction (MI), Abnormal Heartbeat (HB), and History of MI. The model applies PCA for feature extraction and a Voting Ensemble Classifier (KNeighborsClassifier, SVC, LogisticRegression, XGBClassifier) to enhance accuracy.
