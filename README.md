@@ -5,7 +5,8 @@ Cardiovascular diseases (CVDs) are among the leading causes of mortality worldwi
 To achieve high accuracy, the project leverages Principal Component Analysis (PCA) for feature extraction and a Voting Ensemble Classifier combining KNeighborsClassifier, SVC, LogisticRegression, and XGBClassifier. The classification model is integrated into a user-friendly web application using Streamlit and FastAPI, allowing real-time ECG analysis and visualization.
 This approach aims to assist medical professionals in early detection and diagnosis of CVDs, improving patient outcomes and reducing diagnostic errors. Future work includes enhancing model performance, incorporating additional datasets, and deploying the solution as a cloud-based service for broader accessibility.
 
-Approach -  The project follows a structured pipeline to detect cardiovascular diseases from ECG images using machine learning techniques. The key steps include:
+Approach -  The project follows a structured pipeline to detect cardiovascular diseases from ECG images using machine learning techniques. 
+The key steps include:
 1. Data Collection & Preprocessing -
 
 ECG images are collected from relevant datasets.
@@ -36,6 +37,7 @@ Further improvements involve hyperparameter tuning, additional datasets, and dep
 This systematic approach ensures efficient ECG image classification, enabling early and reliable cardiovascular disease detection. 🚀
 
 ECG images Dataset - https://www.kaggle.com/datasets/evilspirit05/ecg-analysis
+
 PPT Link - https://docs.google.com/presentation/d/1po18SvmZg2WP0oKlM32_1VwTYN8MTtce/edit#slide=id.p1
 
 
