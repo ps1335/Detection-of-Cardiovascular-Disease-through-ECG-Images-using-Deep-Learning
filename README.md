@@ -34,3 +34,5 @@ Model accuracy is assessed using metrics such as precision, recall, and F1-score
 Further improvements involve hyperparameter tuning, additional datasets, and deployment as a cloud-based service.
 
 This systematic approach ensures efficient ECG image classification, enabling early and reliable cardiovascular disease detection. 🚀
+
+ECG images Dataset - https://www.kaggle.com/datasets/evilspirit05/ecg-analysis
