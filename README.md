@@ -6,6 +6,7 @@ To achieve high accuracy, the project leverages Principal Component Analysis (PC
 This approach aims to assist medical professionals in early detection and diagnosis of CVDs, improving patient outcomes and reducing diagnostic errors. Future work includes enhancing model performance, incorporating additional datasets, and deploying the solution as a cloud-based service for broader accessibility.
 
 Approach -  The project follows a structured pipeline to detect cardiovascular diseases from ECG images using machine learning techniques. 
+
 The key steps include:
 1. Data Collection & Preprocessing -
 
